@@ -4,5 +4,5 @@ https://arxiv.org/abs/2007.01548.
 I will keep updata this repository..-->
 
 <p align="center">
-<img src="https://github.com/xaggi/claws_eccv/blob/master/imgs/architecture.pdf" width="1050">
+<img src="https://github.com/blob/master/images/proposed_network.pdf" width="1050">
 </p>
