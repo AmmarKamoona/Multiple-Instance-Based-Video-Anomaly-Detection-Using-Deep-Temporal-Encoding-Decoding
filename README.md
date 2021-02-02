@@ -19,7 +19,7 @@ I will keep updata this repository..-->
 </p>
 
  AUC Performance on ShanghaiTech
-  - 89.67 % AUC of the ROC curve
+  - 89.14 % AUC of the ROC curve
   - Comparison provided against [Zaheer et al.](https://sites.google.com/view/luv2020/talks/zaheer), [Zhong et al.](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.pdf),  and [SRF](https://arxiv.org/abs/2008.11887).
 
 <p align="center">
