@@ -1,7 +1,7 @@
 # Multiple-Instance-Based-Video-Anomaly-Detection-Using-Deep-Temporal-Encoding-Decoding
 Implementation of the paper "Multiple Instance-Based Video Anomaly Detection Using Deep Temporal Encoding-Decoding"
 https://arxiv.org/abs/2007.01548.
-
+The paper is accepted for publication in Expert Systems with Applications Journal 
 I will keep update this page. I will upload the test model once the paper get published..-->
 
 <p align="center">
