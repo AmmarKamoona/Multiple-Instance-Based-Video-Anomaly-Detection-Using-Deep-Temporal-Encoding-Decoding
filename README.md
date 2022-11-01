@@ -1,6 +1,5 @@
 # Multiple-Instance-Based-Video-Anomaly-Detection-Using-Deep-Temporal-Encoding-Decoding
-Implementation of the paper "Multiple Instance-Based Video Anomaly Detection Using Deep Temporal Encoding-Decoding"
-https://arxiv.org/abs/2007.01548.
+Implementation of the paper "Multiple Instance-Based Video Anomaly Detection Using Deep Temporal Encoding-Decoding" (https://www.sciencedirect.com/science/article/pii/S0957417422020978)
 The paper is accepted for publication in Expert Systems with Applications Journal 
 I will keep update this page. I will upload the test model once the paper get published..-->
 
@@ -36,7 +35,7 @@ I will keep update this page. I will upload the test model once the paper get pu
 </p>
 
 #Please cite the paper using the following 
-
+```
 @article{KAMOONA2023119079,
 title = {Multiple instance-based video anomaly detection using deep temporal encoding–decoding},
 journal = {Expert Systems with Applications},
@@ -47,6 +46,6 @@ issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2022.119079},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417422020978},
 author = {Ammar Mansoor Kamoona and Amirali Khodadadian Gostar and Alireza Bab-Hadiashar and Reza Hoseinnezhad},
-keywords = {Anomaly detection, Surveillance videos, Weakly supervised multiple instance learning},
-abstract = {In this paper, we propose a weakly supervised deep temporal encoding–decoding solution for anomaly detection in surveillance videos using multiple instance learning. The proposed approach uses both abnormal and normal video clips during the training phase which is developed in the multiple instance learning framework where we treat the video as a bag and video clips as instances in the bag. Our main contribution lies in the proposed novel approach to consider temporal relations between video instances in a weakly supervised setting. We deal with video instances (clips) as sequential visual data rather than a set of independent instances. We employ a deep temporal encoding–decoding network that is designed to capture spatio-temporal evolution of video instances over time. We also propose a new loss function that maximizes the mean distance between normal and abnormal instance predictions. The new loss function ensures a low false alarm rate which is crucial in practical surveillance applications. The proposed temporal encoding–decoding approach with the modified loss is benchmarked against the state of the art. The results show that the proposed method performs similar to, or better than the state-of-the-art solutions for anomaly detection in video surveillance applications and achieves the lowest false alarm rate on UCF-Crime dataset.}
 }
+```
+
